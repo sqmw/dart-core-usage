@@ -1,0 +1,80 @@
+import 'package:dart_core_usage/dart_core_usage.dart' as dart_core_usage;
+
+void main(List<String> arguments) {
+  print('Hello world: ${dart_core_usage.calculate()}!');
+}
+import 'package:dart_core_usage/dart_core_usage.dart' as dart_core_usage;
+
+void main(List<String> arguments) {
+  print('Hello world: ${dart_core_usage.calculate()}!');
+}
+import 'package:dart_core_usage/dart_core_usage.dart' as dart_core_usage;
+
+void main(List<String> arguments) {
+  print('Hello world: ${dart_core_usage.calculate()}!');
+}
+import 'package:dart_core_usage/dart_core_usage.dart' as dart_core_usage;
+
+void main(List<String> arguments) {
+  print('Hello world: ${dart_core_usage.calculate()}!');
+}
+import 'package:dart_core_usage/dart_core_usage.dart' as dart_core_usage;
+
+void main(List<String> arguments) {
+  print('Hello world: ${dart_core_usage.calculate()}!');
+}
+import 'package:dart_core_usage/dart_core_usage.dart' as dart_core_usage;
+
+void main(List<String> arguments) {
+  print('Hello world: ${dart_core_usage.calculate()}!');
+}
+import 'package:dart_core_usage/dart_core_usage.dart' as dart_core_usage;
+
+void main(List<String> arguments) {
+  print('Hello world: ${dart_core_usage.calculate()}!');
+}
+import 'package:dart_core_usage/dart_core_usage.dart' as dart_core_usage;
+
+void main(List<String> arguments) {
+  print('Hello world: ${dart_core_usage.calculate()}!');
+}
+import 'package:dart_core_usage/dart_core_usage.dart' as dart_core_usage;
+
+void main(List<String> arguments) {
+  print('Hello world: ${dart_core_usage.calculate()}!');
+}
+import 'package:dart_core_usage/dart_core_usage.dart' as dart_core_usage;
+
+void main(List<String> arguments) {
+  print('Hello world: ${dart_core_usage.calculate()}!');
+}
+import 'package:dart_core_usage/dart_core_usage.dart' as dart_core_usage;
+
+void main(List<String> arguments) {
+  print('Hello world: ${dart_core_usage.calculate()}!');
+}
+import 'package:dart_core_usage/dart_core_usage.dart' as dart_core_usage;
+
+void main(List<String> arguments) {
+  print('Hello world: ${dart_core_usage.calculate()}!');
+}
+import 'package:dart_core_usage/dart_core_usage.dart' as dart_core_usage;
+
+void main(List<String> arguments) {
+  print('Hello world: ${dart_core_usage.calculate()}!');
+}
+import 'package:dart_core_usage/dart_core_usage.dart' as dart_core_usage;
+
+void main(List<String> arguments) {
+  print('Hello world: ${dart_core_usage.calculate()}!');
+}
+import 'package:dart_core_usage/dart_core_usage.dart' as dart_core_usage;
+
+void main(List<String> arguments) {
+  print('Hello world: ${dart_core_usage.calculate()}!');
+}
+import 'package:dart_core_usage/dart_core_usage.dart' as dart_core_usage;
+
+void main(List<String> arguments) {
+  print('Hello world: ${dart_core_usage.calculate()}!');
+}
